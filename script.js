@@ -21,7 +21,7 @@ noBtn.addEventListener("mouseenter", () => {
 });
 
 yesBtn.addEventListener("click", () => {
-  question.innerText = "Maria, will you be my Valentine? YAY! 🎉";
+  question.innerText = "Maria, My Love will you be my Valentine? YAY! 🎉";
   buttons.classList.add("hidden");
   celebration.classList.remove("hidden");
   icon.innerText = "🥰";
